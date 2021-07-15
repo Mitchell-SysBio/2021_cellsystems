@@ -1,4 +1,5 @@
 # 2021_cellsystems
+https://zenodo.org/badge/385402708.svg
 
 This repository stores the code used to analyze data and generate plots for "Assembling stable syntrophic Escherichia coli communities by comprehensively identifying beneficiaries of secreted goods"
 
